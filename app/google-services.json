@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626178316565",
+    "firebase_url": "https://workmanagerdemo-70a96.firebaseio.com",
+    "project_id": "workmanagerdemo-70a96",
+    "storage_bucket": "workmanagerdemo-70a96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626178316565:android:6a0890e1f3ea0f77",
+        "android_client_info": {
+          "package_name": "com.netzwelt.workmanagerdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626178316565-7v52bn41j1opongqgul6na3lp1g6svlu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.netzwelt.workmanagerdemo",
+            "certificate_hash": "ddf0249959572fbf14c7a504f8c7a434d081489c"
+          }
+        },
+        {
+          "client_id": "626178316565-tv5j2vokhjot0bm0ghvkq8sha5kt7ca8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrHojss-51Jh3Skv6gQIaIikijS58hA4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626178316565-tv5j2vokhjot0bm0ghvkq8sha5kt7ca8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
